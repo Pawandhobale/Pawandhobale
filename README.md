@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm pawan dhobale</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center"><b>Hi 👋, I'm pawan dhobale welcome to my code journey</b></h1>
+<h3 align="center"><i>A passionate frontend developer from India</i></h3>
 <p align="right"><img src="https://tse1.mm.bing.net/th?id=OIP.zVnWJtyGOX_kUIDm6ccCfQHaEq&pid=Api&P=0&h=180"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawandhobale&label=Profile%20views&color=0e75b6&style=flat" alt="pawandhobale" /> </p>
