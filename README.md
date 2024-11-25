@@ -22,17 +22,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawandhobale&" alt="pawandhobale" /></p>
 
-## 🥇 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 :
-
-|  𝚆𝚎𝚋 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜    | 𝚅𝚒𝚎𝚠 𝙻𝚒𝚗𝚔𝚜|
-|:-------------------|:----------:|
-| 𝙲𝚊𝚕𝚌𝚞𝚕𝚊𝚝𝚘𝚛         |[![Calculator](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/Calculator/)|
-| 𝙲𝚊𝚔𝚎 𝙱𝚊𝚔𝚎𝚛𝚢 𝚂𝚑𝚘𝚙   |[![Bakery-Shop](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/Trisha_Bakers/)|
-| 𝙱𝚛𝚒𝚢𝚊𝚗𝚒 𝙷𝚘𝚞𝚜𝚎      |[![Briyni-House](https://img.shields.io/badge/Visit-blue.svg)](https://sahildprojects.github.io/The-Famous-Briyani-Bro-s/)|
-
-|𝙹𝚊𝚟𝚊 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜|𝚅𝚒𝚜𝚒𝚝| 𝚆𝚊𝚝𝚌𝚑|
-|-------------|-----|------|
-|𝚃𝚒𝚌 𝚃𝚊𝚌 𝚃𝚘𝚎|[![ttt](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Tic-Tac-Toe)|[![ttt](https://img.shields.io/badge/Watch-red.svg)](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)|
-|𝙵𝚕𝚊𝚙𝚙𝚢 𝙱𝚒𝚛𝚍|[![fb](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Flappy-Bird)|[![fb](https://img.shields.io/badge/Watch-red.svg)](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)|
-|𝚂𝚗𝚊𝚔𝚎 𝙶𝚊𝚖𝚎|[![sg](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Snake-Game)|[![sg](https://img.shields.io/badge/Watch-red.svg)](https://www.youtube.com/watch?v=nRIaHk6XWus)|
-|𝚄𝚗𝚒𝚝 𝙲𝚘𝚗𝚟𝚎𝚛𝚝𝚎𝚛| [![uc](https://img.shields.io/badge/Visit-blue.svg)](https://github.com/SAHILDUDHAL21/Unit-Converter)|[![uc](https://img.shields.io/badge/Watch-red.svg)](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)|
