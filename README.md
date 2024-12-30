@@ -10,7 +10,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/pawan.dhobale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawan.dhobale" height="30" width="40" /></a>
+<a href="https://instagram.com/pawan.dhobale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pawan.dhobale" height="30" width="40" /></a>
+  <a href="https://instagram.com/pawan.dhobale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawan.dhobale" height="30" width="40" /></a>
+  <a href="https://instagram.com/pawan.dhobale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawan.dhobale" height="30" width="40" /></a>
+  <a href="https://instagram.com/pawan.dhobale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawan.dhobale" height="30" width="40" /></a>
 </p>
 
 ## 💻 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 & 𝚂𝙺𝙸𝙻𝙻𝚂 :
