@@ -27,7 +27,16 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 
 
-## 🥇 Projects ### Web Projects | Project | Visit Link | |--------------|:----------:| | Calculator | [Calculator](https://sahildprojects.github.io/Calculator/) | | Cake Bakery Shop | [Bakery-Shop](https://sahildprojects.github.io/Trisha_Bakers/) | | Briyani House | [Briyani-House](https://sahildprojects.github.io/The-Famous-Briyani-Bro-s/) | ### Java Projects | Project | Visit | Watch | |-------------|:-----:|:-----:| | Tic Tac Toe | [Visit](https://github.com/SAHILDUDHAL21/Tic-Tac-Toe) | [Watch](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj) | | Flappy Bird | [Visit](https://github.com/SAHILDUDHAL21/Flappy-Bird) | [Watch](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj) | | Snake Game | [Visit](https://github.com/SAHILDUDHAL21/Snake-Game) | [Watch](https://www.youtube.com/watch?v=nRIaHk6XWus) | | Unit Converter | [Visit](https://github.com/SAHILDUDHAL21/Unit-Converter) | [Watch](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)
+# 🥇 Projects
+## Web Projects
+- **Calculator**: [Visit](https://sahildprojects.github.io/Calculator/)
+- **Cake Bakery Shop**: [Visit](https://sahildprojects.github.io/Trisha_Bakers/)
+- **Briyani House**: [Visit](https://sahildprojects.github.io/The-Famous-Briyani-Bro-s/)
+-  ## Java Projects
+- **Tic Tac Toe**: [Visit](https://github.com/SAHILDUDHAL21/Tic-Tac-Toe) | [Watch](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)
+- **Flappy Bird**: [Visit](https://github.com/SAHILDUDHAL21/Flappy-Bird) | [Watch](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)
+- **Snake Game**: [Visit](https://github.com/SAHILDUDHAL21/Snake-Game) | [Watch](https://www.youtube.com/watch?v=nRIaHk6XWus)
+- **Unit Converter**: [Visit](https://github.com/SAHILDUDHAL21/Unit-Converter) | [Watch](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawandhobale&show_icons=true&locale=en&layout=compact" alt="pawandhobale" /></p>
