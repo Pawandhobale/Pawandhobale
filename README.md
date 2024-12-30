@@ -29,14 +29,14 @@
 
 # 🥇 Projects
 ## Web Projects
-- **Calculator**: [Visit](https://sahildprojects.github.io/Calculator/)
-- **Cake Bakery Shop**: [Visit](https://sahildprojects.github.io/Trisha_Bakers/)
-- **Briyani House**: [Visit](https://sahildprojects.github.io/The-Famous-Briyani-Bro-s/)
+- **snack game**: [Visit](httpsd://sahildprojects.github.io/Calculator/)
+- **portfolio**: [Visit](httdps://sahildprojects.github.io/Trisha_Bakers/)
+- **stiker game**: [Visit](htdtps://sahildprojects.github.io/The-Famous-Briyani-Bro-s/)
 -  ## Java Projects
-- **Tic Tac Toe**: [Visit](https://github.com/SAHILDUDHAL21/Tic-Tac-Toe) | [Watch](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)
-- **Flappy Bird**: [Visit](https://github.com/SAHILDUDHAL21/Flappy-Bird) | [Watch](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)
-- **Snake Game**: [Visit](https://github.com/SAHILDUDHAL21/Snake-Game) | [Watch](https://www.youtube.com/watch?v=nRIaHk6XWus)
-- **Unit Converter**: [Visit](https://github.com/SAHILDUDHAL21/Unit-Converter) | [Watch](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj
+- **atm**: [Visit](httpds://github.com/SAHILDUDHAL21/Tic-Tac-Toe) | [Watch](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)
+- **result**: [Visit](htdtps://github.com/SAHILDUDHAL21/Flappy-Bird) | [Watch](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)
+- **X/O**: [Visit](httdps://github.com/SAHILDUDHAL21/Snake-Game) | [Watch](https://www.youtube.com/watch?v=nRIaHk6XWus)
+- **pong game**: [Visit](htdtps://github.com/SAHILDUDHAL21/Unit-Converter) | [Watch](https://youtdu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj
 
 
 
