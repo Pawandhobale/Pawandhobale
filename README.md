@@ -10,10 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/pawan.dhobale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pawan.dhobale" height="30" width="40" /></a>
+<a href="https://youtube.com/@pawandhobaleofficial-zf6gg?si=fFImYlJPtm46CFui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pawan.dhobale" height="30" width="40" /></a>
   <a href="https://instagram.com/pawan.dhobale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawan.dhobale" height="30" width="40" /></a>
-  <a href="https://instagram.com/pawan.dhobale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="pawan.dhobale" height="30" width="40" /></a>
-  <a href="https://instagram.com/pawan.dhobale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedln.svg" alt="pawan.dhobale" height="30" width="40" /></a>
+  
 </p>
 
 ## 💻 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 & 𝚂𝙺𝙸𝙻𝙻𝚂 :
@@ -26,6 +25,9 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat&logo=Windows%2011&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
+
+
+## 🥇 Projects ### Web Projects | Project | Visit Link | |--------------|:----------:| | Calculator | [Calculator](https://sahildprojects.github.io/Calculator/) | | Cake Bakery Shop | [Bakery-Shop](https://sahildprojects.github.io/Trisha_Bakers/) | | Briyani House | [Briyani-House](https://sahildprojects.github.io/The-Famous-Briyani-Bro-s/) | ### Java Projects | Project | Visit | Watch | |-------------|:-----:|:-----:| | Tic Tac Toe | [Visit](https://github.com/SAHILDUDHAL21/Tic-Tac-Toe) | [Watch](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj) | | Flappy Bird | [Visit](https://github.com/SAHILDUDHAL21/Flappy-Bird) | [Watch](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj) | | Snake Game | [Visit](https://github.com/SAHILDUDHAL21/Snake-Game) | [Watch](https://www.youtube.com/watch?v=nRIaHk6XWus) | | Unit Converter | [Visit](https://github.com/SAHILDUDHAL21/Unit-Converter) | [Watch](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawandhobale&show_icons=true&locale=en&layout=compact" alt="pawandhobale" /></p>
