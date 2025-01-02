@@ -28,13 +28,21 @@
 
 
 # 🥇 Projects
-- **snack game**: [Visit](httpsd://sahildprojects.github.io/Calculator/)[Watch](https://youtu.be/g6sA_diGFsQ)
-- **portfolio**: [Visit](httdps://sahildprojects.github.io/Trisha_Bakers/)[Watch](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)
-- **stiker game**: [Visit](htdtps://sahildprojects.github.io/The-Famous-Briyani-Bro-s/)[Watch](https://youtu.be/3GJdoOpVYGw)
+- **snack game**: [Visit](httpsd://sahildprojects.github.io/Calculator/) | [Watch](https://youtu.be/g6sA_diGFsQ)
+- **portfolio**: [Visit](httdps://sahildprojects.github.io/Trisha_Bakers/) | [Watch](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)
+- **stiker game**: [Visit](htdtps://sahildprojects.github.io/The-Famous-Briyani-Bro-s/) | [Watch](https://youtu.be/3GJdoOpVYGw)
 - **atm**: [Visit](httpds://github.com/SAHILDUDHAL21/Tic-Tac-Toe) | [Watch](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)
 - **result**: [Visit](htdtps://github.com/SAHILDUDHAL21/Flappy-Bird) | [Watch](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)
 - **X/O**: [Visit](httdps://github.com/SAHILDUDHAL21/Snake-Game) | [Watch](https://youtu.be/cmax2DKxQEk)
 - **pong game**: [Visit](htdtps://github.com/SAHILDUDHAL21/Unit-Converter) | [Watch]([Watch](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj)
+
+
+## 🚀 Projects
+| Project | Description | GitHub Repository | YouTube Video |
+|---------|-------------|-------------------|---------------|
+| **Project One** | Brief description of Project One | [Project One Repository](https://github.com/username/project-one) | [Watch Video](https://www.youtube.com/link_to_project_one_video) |
+| **Project Two** | Brief description of Project Two | [Project Two Repository](https://github.com/username/project-two) | [Watch Video](https://www.youtube.com/link_to_project_two_video) |
+| **Project Three** | Brief description of Project Three | [Project Three Repository](https://github.com/username/project-three) | [Watch Video](https://www.youtube.com/link_to_project_three_video) |
 
 
 
