@@ -30,7 +30,7 @@
 ## 🚀 Projects
 | Project | Description | GitHub Repository | YouTube Video |
 |---------|-------------|-------------------|---------------|
-| **Snack Game** | Brief description of Project One | [Project One Repository](ct-one) | [Watch Video](https://youtu.be/g6sA_diGFsQ) |
+| **Snack Game** | Brief description of Project One | [Project One Repository](https://github.com/Pawandhobale/-Projects-snack-game) | [Watch Video](https://youtu.be/g6sA_diGFsQ) |
 | **Stiker Game** | Brief description of Project Two | [Project Two Repository](https://github.com/username/project-two) | [Watch Video](https://youtu.be/3GJdoOpVYGw) |
 | **X/O** | Brief description of Project Three | [Project Three Repository](https://github.com/username/project-three) | [Watch Video](https://youtu.be/cmax2DKxQEk) |
 | **Pong-Game** | Brief description of Project Three | [Project Three Repository](https://github.com/username/project-three) | [Watch Video](https://youtu.be/ET7_fzSKBBM?si=TqP5bXTX8wkm-JVj) |
